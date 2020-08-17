@@ -22,7 +22,7 @@ The following is a set of guidelines for contributing to CSC-510-HW1 and its pac
 This project and everyone participating in it is governed by the [CSC-510-HW1](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [harshit.p.patel96@gmail.com](mailto:harshit.p.patel96@gmail.com).
 
 ## What should I know before I get started?
-This is a test repository. Do not file an issue here.
+This is a test repository, but feel free to file an issue if you still need to.
 
 ## How Can I Contribute?
 
@@ -91,3 +91,6 @@ While the prerequisites above must be satisfied prior to having your pull reques
     * :arrow_up: `:arrow_up:` when upgrading dependencies
     * :arrow_down: `:arrow_down:` when downgrading dependencies
     * :shirt: `:shirt:` when removing linter warnings
+   
+ ## Attribution
+ * This Contribution instructions were adapted from [Atom's Contributing.md](https://github.com/atom/atom/blob/master/CONTRIBUTING.md)
