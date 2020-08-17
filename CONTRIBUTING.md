@@ -22,7 +22,7 @@ The following is a set of guidelines for contributing to CSC-510-HW1 and its pac
 This project and everyone participating in it is governed by the [CSC-510-HW1](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [harshit.p.patel96@gmail.com](mailto:harshit.p.patel96@gmail.com).
 
 ## What should I know before I get started?
-You should know that this is a test repository and you should not file an issue here.
+This is a test repository. Do not file an issue here.
 
 ## How Can I Contribute?
 
