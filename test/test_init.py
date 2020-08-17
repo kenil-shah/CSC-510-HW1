@@ -1,9 +1,9 @@
-import code as cd
+import code.main as main
 
 
 def testSadCase():
-    assert not cd.inc(3) == 5
+    assert not main.inc(3) == 5
 
 
 def testHappyCase():
-    assert cd.inc(4) == 5
+    assert main.inc(4) == 5
