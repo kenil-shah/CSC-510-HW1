@@ -2,8 +2,8 @@
 from setuptools import setup
 
 setup(
-    name='to be decided',
+    name='CSC_510_G06',
     version='1.0',
-    description='To be decided)',
-    packages=['code', 'data', 'test']',
+    description='The next big thing!',
+    packages=['code', 'data', 'test']
       )
