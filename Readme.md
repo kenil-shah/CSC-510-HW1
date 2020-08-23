@@ -1,21 +1,9 @@
-# CSC-510-HW1 
+# Software Engineering Group 6
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3986984.svg)](https://doi.org/10.5281/zenodo.3986984) [![Build Status](https://travis-ci.org/kenil-shah/CSC-510-HW1.svg?branch=master)](https://travis-ci.org/kenil-shah/CSC-510-HW1) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![GitHub](https://img.shields.io/badge/language-python-blue.svg)
+[![Run on Repl.it](https://repl.it/badge/github/urvishvasani/HW_2_3_Game_of_Life)](https://repl.it/github/urvishvasani/HW_2_3_Game_of_Life)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3996733.svg)](https://doi.org/10.5281/zenodo.3996733)
 
-This repo has been created for CSC 510 - Software Engineering Fall 2020 course's Homework1 with an intention to understand importance of professional github repository .
-
-## Build 
-This project requires [Python 3.6](https://www.python.org/downloads/release/python-3611/). After cloning this repository to your machine, run the following to build the package:
-```
-pip install -r requirements.txt
-python setup.py install
-```
-
-## Testing
-This project uses [Pytest](https://docs.pytest.org/en/stable/) to run tests. To execute tests locally, run the following from the root directory once you've build the project:
-```
-python -m pytest
-```
+**Hw-02 Repo (Game of Life)**
 
 ## Team Members
 ```
@@ -25,3 +13,10 @@ Faraaz Kakiwala
 Raj Shrivastava
 Harshit Patel
 ```
+
+## How to run?
+'''
+1) Click on the repl badge available in README.md
+
+2) Change the language to **Julia** and use ** julia code/julia_implementation/GOL.jl ** as run command.
+'''
